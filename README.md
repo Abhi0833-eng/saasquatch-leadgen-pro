@@ -1,10 +1,10 @@
 # ⚡ SaaSquatch AI Pro — Proprietary Sourcing & Acquisition Intelligence Engine
 
 > **Caprae Capital Partners — Development Challenge & Handbook Submission**  
-> **Repository**: [https://github.com/Abhi0833-eng/saasquatch-leadgen-pro](https://github.com/Abhi0833-eng/saasquatch-leadgen-pro)  
-> **Candidate**: Abhishek  
-> **Target Role**: Full Stack Developer / AI Engineer  
-> **Application Status**: Live & Ready (`http://127.0.0.1:3000`)
+> 🌐 **Live Web Application**: [https://saasquatch-leadgen-pro.vercel.app](https://saasquatch-leadgen-pro.vercel.app)  
+> 📦 **GitHub Repository**: [https://github.com/Abhi0833-eng/saasquatch-leadgen-pro](https://github.com/Abhi0833-eng/saasquatch-leadgen-pro)  
+> 👤 **Candidate**: Abhishek  
+> 💼 **Target Role**: Full Stack Developer / AI Engineer  
 
 ---
 
@@ -148,7 +148,8 @@ npm run build
 
 - **Author**: Abhishek
 - **Target Firm**: Caprae Capital Partners
-- **Repository**: [https://github.com/Abhi0833-eng/saasquatch-leadgen-pro](https://github.com/Abhi0833-eng/saasquatch-leadgen-pro)
+- **Live Demo App**: [https://saasquatch-leadgen-pro.vercel.app](https://saasquatch-leadgen-pro.vercel.app)
+- **GitHub Repository**: [https://github.com/Abhi0833-eng/saasquatch-leadgen-pro](https://github.com/Abhi0833-eng/saasquatch-leadgen-pro)
 - **Submission Email**: `recruiting@capraecapital.com`
 - **Subject Line**: `Full Stack Developer - Handbook Submission - Abhishek`
 
