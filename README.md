@@ -144,18 +144,6 @@ npm run build
 
 ---
 
-## 📊 Evaluation Criteria Self-Assessment
-
-| Evaluation Criteria | Score | Rationale & Evidence |
-| :--- | :---: | :--- |
-| **Business Use Case Understanding** | **10 / 10** | Engineered explicitly around Caprae Capital's ETA/Search Fund investment thesis ($1M–$5M EBITDA fit, founder retirement age >58, post-acquisition AI transformation upside). |
-| **UX / UI** | **10 / 10** | Spacious luxury dark theme (`#070a12`), glassmorphism cards, clear visual hierarchy, multi-parameter filtering, interactive deal modals, and Kanban CRM board. |
-| **Technicality** | **10 / 10** | Complete React 19 SPA, runnable Python enrichment pipeline (`demo_leadgen_pipeline.py`), data deduplication logic, CSV export, and serverless/Redis architecture. |
-| **Design** | **5 / 5** | Premium typography (`Plus Jakarta Sans` & `JetBrains Mono`), curated HSL color tokens, color-coded score pills, and micro-interactions. |
-| **Other Value-Adds** | **5 / 5** | AI founder cold email writer, live terminal scraper stream, complete 2-minute video presentation script, and structured handbook answers. |
-
----
-
 ## ✉️ Handbook Submission & Contact
 
 - **Author**: Abhishek
